@@ -4,13 +4,16 @@ This is a small project built with nextjs and using graphql API to fetch data fr
 1. TECHNOLOGIES
 
 	1.1 FRONTEND - Next.js
-			LIBRARIES - Apollo Client
+		
+		LIBRARIES - Apollo Client
 
 	1.2 BACKEND - Wordpress
-			PLUGINS - WP GraphQL, WPGraphQL Offset Pagination  	
+	
+		PLUGINS - WP GraphQL, WPGraphQL Offset Pagination  	
 	 
 
-2.	DESCRIPTION
+2. DESCRIPTION
+
 	WORDPRESS is one of the most popular Content Manangement System (CMS), it's free and open-source and also used by more than 40% of websites in the word. By default wordpress has his REST API, but in this project we used GRAPHQL so that we can configure the frontend as we want through the NEXT.js, one of the latest and coolest Javascript frameworks.
 
 	In this project we just have the frontend part, so we must have a wordpress website so that we can use its content, but after installing the wordpress we must install both plugins mentioned in the technologie section, to transform it into a headless.
