@@ -20,7 +20,7 @@ This is a small project built with nextjs and using graphql API to fetch data fr
 	
 	For wordpress headless, it just need content.
 
-	On the Next.js project, in the root, inside .env file you must also change the wordpress API, so it looks like: http(s)://yoursite.com/graphql, as an example we can see the .env file, after that we you are done, just need to fetch some data. 
+	On the Next.js project, in the root, inside .env file you must also change the wordpress API, so it looks like: http(s)://yoursite.com/graphql, as an example we can see the .env file, after that we are done, just need to fetch some data. 
 
 	In the Next.js, you need to install Apollo Client, using npm install @apollo/client graphql command, create the file apollo-client.js in the main root and create the client, you can see the original file into, apollo-client.js.
 	
